@@ -1,12 +1,6 @@
-// This is a SUGGESTED skeleton file.  Throw it away if you don't use it.
+
 package enigma;
 
-
-//import com.sun.tools.javac.comp.Enter;
-
-/** Class that represents a complete enigma machine.
- *  @author
- */
 class Machine {
 
     private Rotor[] rotors;

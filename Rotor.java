@@ -1,12 +1,8 @@
-// This is a SUGGESTED skeleton file.  Throw it away if you don't use it.
+
 package enigma;
 
-
-/** Class that represents a rotor in the enigma machine.
- *  @author
- */
 class Rotor {
-    // This needs other methods, fields, and constructors.
+    
     private String typeofrotor;
     private String notch1;
     private String notch2;

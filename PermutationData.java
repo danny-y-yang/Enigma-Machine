@@ -1,8 +1,5 @@
 package enigma;
 
-/** Descriptions of permutations used in Enigma rotors.
- *  @author P. N. Hilfinger
- */
 class PermutationData {
 
     /** The names and definitions of the rotors and reflectors in M4.  The

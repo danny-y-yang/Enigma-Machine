@@ -1,19 +1,9 @@
-// This is a SUGGESTED skeleton file.  Throw it away if you want.
+
 package enigma;
 
 import java.io.*;
 
-/** Enigma simulator.
- *  @author
- */
 public final class Main {
-
-    // WARNING: Not all methods that have code in them are complete!
-
-    /** Process a sequence of encryptions and decryptions, as
-     *  specified in the input from the standard input.  Print the
-     *  results on the standard output. Exits normally if there are
-     *  no errors in the input; otherwise with code 1. */
     public static void main(String[] args) {
         Machine M;
         BufferedReader input = null;

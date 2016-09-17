@@ -1,9 +1,6 @@
-// This is a SUGGESTED skeleton file.  Throw it away if you don't use it.
+
 package enigma;
 
-/** Class that represents a reflector in the enigma.
- *  @author
- */
 class Reflector extends Rotor {
 
     Reflector(String typeofrotor) {
